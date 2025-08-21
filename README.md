@@ -26,6 +26,7 @@ Pythonによる需要予測モデルのサンプルです。
 - **問題解決能力:**
   - 実行環境に依存する日本語の文字化け問題を、外部ライブラリ(`japanize-matplotlib`)を用いてスマートに解決しました。
 
+
 ## 再現方法
 **1. Google Colaboratoryで開く:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Logical-Code-Y/python-demand-forecast-portfolio/blob/main/demand_forecast_portfolio.ipynb)
